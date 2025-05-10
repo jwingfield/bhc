@@ -6,7 +6,7 @@ layout: home
 image: banner.jpg
 ---
 # Bradford Heritage Connection
-![Animated Logo](bhc-logo.mp4)
+![Logo](images/bhc_logo.jpg)
 [Events](events.html)
 
 
