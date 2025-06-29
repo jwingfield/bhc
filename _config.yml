@@ -22,7 +22,7 @@ title: Bradford Heritage Connection
 email: vicky@bradfordheritageconnection.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Bradford Heritage Connection CIC.  Registered in England and Wales, company number 16039881.  A Community Interest Company dedicated to the preservation of Bradford's heritage.
-baseurl: "/"
+baseurl: "/bhc/"
 logo: images/bhc-mini.png
 # twitter_username: coming soon...
 # facebook_username: coming soon...
