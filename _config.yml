@@ -57,8 +57,8 @@ page_gen-dirs: true
 
 page_gen:
   - data: bhf-events-2025
-    template: bhf-event.html
+    template: bhf-event
     name_expr: record[ImageName]
     dir: bhf
     title: record[EventTitle]
-    index_files: true
+    index_files: false
