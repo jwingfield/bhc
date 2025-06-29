@@ -54,3 +54,11 @@ plugins:
 #   - vendor/ruby/
 
 page_gen-dirs: true
+
+page_gen:
+  - data: 'bhf-events-2025.yaml'
+    template: 'bhf-event.html'
+    name_expr: record['ImageName']
+    dir: 'bhf''
+    title: record['EventTitle']
+    index_files: true

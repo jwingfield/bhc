@@ -1,0 +1,11 @@
+---
+layout: page
+exclude: true
+---
+<article class="post">
+  {% capture imageUrl %} /images/{{ page.ImageName | downcase }} {% endcapture %}
+  <img src="{{ imageUrl }}" style="max-height: 400px" alt="{{oage.ImageDesc}}"/>
+  <p><b>Date: </b>{{ page.Date }}<br/>
+    <b>Time: </b> {{ page.Times }}</p>
+  <p>{{ page.LongDesc}}</p>
+</article>
