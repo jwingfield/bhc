@@ -56,7 +56,7 @@ plugins:
 page_gen-dirs: true
 
 page_gen:
-  - data: bhf-events-2025.yaml
+  - data: bhf-events-2025
     template: bhf-event.html
     name_expr: record[ImageName]
     dir: bhf
