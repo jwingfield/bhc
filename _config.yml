@@ -32,6 +32,7 @@ show_excerpts:  false
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-datapage_gen
 
 # Exclude from processing.
 # The following items will not be processed, by default.
