@@ -18,6 +18,7 @@
     ImageDesc: Book Binding
     ImageCredit: ""
     ImageName: bhf006.png
+    pageUrl: /bhf/bhf006.html
     Notes: ""
 -
     EventTitle: St George's Hall Heritage Exhibition
@@ -37,6 +38,7 @@
     ImageDesc: St George's Hall Café
     ImageCredit: Also need Lottery logo
     ImageName: bhf007.png
+    pageUrl: /bhf/bhf007.html
     Notes: ""
 -
     EventTitle: The Butterfield Women of Cliffe Castle
@@ -58,6 +60,7 @@
     ImageDesc: Butterfield Women
     ImageCredit: ""
     ImageName: bhf020.jpg
+    pageUrl: /bhf/bhf020.html
     Notes: ""
 -
     EventTitle: Crafting the Cathedral
@@ -76,6 +79,7 @@
     ImageDesc: Crafting the Cathedral
     ImageCredit: Also need Lottery Logo
     ImageName: bhf008.png
+    pageUrl: /bhf/bhf008.html
     Notes: ""
 -
     EventTitle: Mapping Bradford's History
@@ -100,6 +104,7 @@
     ImageDesc: ""
     ImageCredit: Bath Historic Map
     ImageName: bhf009.png
+    pageUrl: /bhf/bhf009.html
     Notes: "Bradford Map Events"
 -
     EventTitle: A Moving Legacy for Bradford
@@ -126,6 +131,7 @@
     ImageDesc: "Vaults"
     ImageCredit: ""
     ImageName: bhf024.png
+    pageUrl: /bhf/bhf024.html
     Notes: "Bradford Map Events"
 -
     EventTitle: "Snapshots of Ilkley: Youthful Visions & Historic Reflections"
@@ -151,6 +157,7 @@
     ImageDesc: Ilkley Manor House
     ImageCredit: ""
     ImageName: bhf010.png
+    pageUrl: /bhf/bhf010.html
     Notes: "There plenty of off street parking as well as parking in the main car park which is a couple of minutes walk from the House. There is no parking at the Manor House. The main train station is a 5 minute walk from House. There is no lift to the upstairs floors at the House."
 -
     EventTitle: Yorkshire Pudding and Pickled Cabbage
@@ -197,6 +204,7 @@
     ImageDesc: Yorkshire Pudding and Pickled Cabbage Exhibition Poster
     ImageCredit: Alicja Mrozowska
     ImageName: bhf018.png
+    pageUrl: /bhf/bhf018.html
     Notes: ""
 -
     EventTitle: Haworth Heritage Walk
@@ -218,7 +226,7 @@
     ImageDesc: Packhorse Bridge
     ImageCredit: The Brontë Society
     ImageName: bhf001.png
-    Notes: ""
+    pageUrl: /bhf/bhf001.html
 -
     EventTitle: Thornton Antiquarians Exhibition
     VenueAddress: Thornton Community Centre, Market St, BD13 3HW
@@ -235,6 +243,7 @@
     ImageDesc: None
     ImageCredit: ""
     ImageName: bhf-mini.png
+    pageUrl: /bhf/bhf-antiquarians.html
     Notes: ""
 -
     EventTitle: Four FREE Guided Tours of World Heritage Saltaire
@@ -259,6 +268,7 @@
     ImageDesc: Saltaire Arial View
     ImageCredit: ""
     ImageName: bhf003.png
+    pageUrl: /bhf/bhf003.html
     Notes: "Limited disabled only parking is available in the URC grounds"
 -
     EventTitle: "Snapshots of Ilkley: Youthful Visions & Historic Reflections"
@@ -284,6 +294,7 @@
     ImageDesc: Ilkley Manor House
     ImageCredit: ""
     ImageName: bhf004.png
+    pageUrl: /bhf/bhf004.html
     Notes: "There plenty of off street parking as well as parking in the main car park which is a couple of minutes walk from the House. There is no parking at the Manor House. The main train station is a 5 minute walk from House. There is no lift to the upstairs floors at the House."
 -
     EventTitle: "Bradford on the Beat: Vintage Vehicle Day at The Bradford Police Museum"
@@ -324,6 +335,7 @@
     ImageDesc: The Bradford Police Museum Vehicle Fleet
     ImageCredit: The Bradford Police Museum
     ImageName: bhf011.png
+    pageUrl: /bhf/bhf011.html
     Notes: "www.ticketsource.co.uk/bradford-police-museum"
 -
     EventTitle: Emily Parkin - Free local author event with craft
@@ -345,6 +357,7 @@
     ImageDesc: ""
     ImageCredit: Emily and Book
     ImageName: bhf012.png
+    pageUrl: /bhf/bhf012.html
     Notes: "Emily Parkin will be selling signed copies of her book at this event."
 -
     EventTitle: "St George's Hall Heritage Exhibition"
@@ -362,6 +375,7 @@
     ImageDesc: "St George's Hall Café"
     ImageCredit: Also need Lottery logo
     ImageName: bhf013.png
+    pageUrl: /bhf/bhf013.html
     Notes: ""
 -
     EventTitle: "Sound And Vision: Family Day"
@@ -383,6 +397,7 @@
     ImageDesc: NSMM Façade
     ImageCredit: ""
     ImageName: bhf014.png
+    pageUrl: /bhf/bhf014.html
     Notes: "Visit the National Science and Media Museum, Bradford"
 -
     EventTitle: Crafting the Cathedral
@@ -401,6 +416,7 @@
     ImageDesc: Crafting the Cathedral
     ImageCredit: Also need Lottery Logo
     ImageName: bhf015.png
+    pageUrl: /bhf/bhf015.html
     Notes: ""
 -
     EventTitle: The Witch Trial of Mary Sykes
@@ -420,6 +436,7 @@
     ImageDesc: Witch Trail
     ImageCredit: ""
     ImageName: bhf019.jpg
+    pageUrl: /bhf/bhf019.html
     Notes: ""
 -
     EventTitle: Yorkshire Pudding and Pickled Cabbage
@@ -466,6 +483,7 @@
     ImageDesc: ""
     ImageCredit: ""
     ImageName: bhf018.png
+    pageUrl: /bhf/bhf018.html
     Notes: ""
 -
     EventTitle: A Bingley Byron Walk - Celebrating the life and poems of John Nicholson
@@ -483,6 +501,7 @@
     ImageDesc: Glyn at Goit Stock
     ImageCredit: A Bingley Byron Walk
     ImageName: bhf021.png
+    pageUrl: /bhf/bhf021.html
     Notes: ""
 -
     EventTitle: Railway History & Heritage
@@ -500,6 +519,7 @@
     ImageDesc: Uniforms
     ImageCredit: ""
     ImageName: bhf005.png
+    pageUrl: /bhf/bhf005.html
     Notes: ""
 -
     EventTitle: "Snapshots of Ilkley: Youthful Visions & Historic Reflections"
@@ -517,6 +537,7 @@
     ImageDesc: Ilkley Manor House
     ImageCredit: ""
     ImageName: bhf016.png
+    pageUrl: /bhf/bhf016.html
     Notes: "There plenty of off street parking as well as parking in the main car park which is a couple of minutes walk from the House. There is no parking at the Manor House. The main train station is a 5 minute walk from House. There is no lift to the upstairs floors at the House."
 -
     EventTitle: Willie Riley – his life and archive
@@ -542,6 +563,7 @@
     ImageDesc: RIL 12/19 Willie Riley at his desk
     ImageCredit: Used with permission of Special Collections, University of Bradford
     ImageName: bhf017.png
+    pageUrl: /bhf/bhf017.html
     Notes: "Max 15 people"
 -
     EventTitle: Yorkshire Pudding and Pickled Cabbage'
@@ -588,6 +610,7 @@
     ImageDesc: ""
     ImageCredit: ""
     ImageName: bhf018.png
+    pageUrl: /bhf/bhf018.html
     Notes: ""
 -
     EventTitle: Heritage Craft Workshop - Traditional Arabic Calligraphy
@@ -615,4 +638,5 @@
     ImageDesc: Inks
     ImageCredit: Note 11+ only
     ImageName: bhf022.jpg
+    pageUrl: /bhf/bhf022.html
     Notes: ""
